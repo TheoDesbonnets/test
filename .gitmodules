@@ -1,0 +1,3 @@
+[submodule "Test/Assets/Dependencies/testInterneA"]
+	path = Test/Assets/Dependencies/testInterneA
+	url = https://github.com/TheoDesbonnets/testInterneA.git
